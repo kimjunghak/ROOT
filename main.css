@@ -1,5 +1,8 @@
 @media screen and (max-width:480px){
-    
+    img{
+        width: auto;
+        height: auto;
+    }
 }
 .topForm{
     text-align: right;
