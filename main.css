@@ -1,0 +1,78 @@
+@media screen and (max-width:480px){
+    
+}
+.topForm{
+    text-align: right;
+    font-size: 12px;
+    margin-right: 10%;
+}
+
+.mainForm{
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    font-family: serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.loginForm{
+    position: relative;
+    width: 420px;
+    margin: auto;
+    height: auto;
+}
+
+ .loginForm .box{
+     width: 320px;
+     text-align: center;
+}
+
+ .loginForm .box .iText{
+     width:auto;
+     margin:3px;
+     padding:10px 16px;
+     border:1px solid #e1e1e1;
+}
+
+ .loginForm .box p{
+     margin-top: 1em;
+     margin-left: 100px;
+}
+
+ .loginForm .box p span, .loginForm .box p input{
+     height:18px;
+     font-size:11px;
+     color:#737373;
+     line-height:18px;
+     vertical-align:middle;
+}
+
+ .loginForm .loginBtn{
+     display:block;
+     position:absolute;
+     margin-right: 40px;
+     margin-top: 2px;
+     top:0;
+     right:0;
+     width:80px;
+     height:60px;
+     padding:10px;
+     border-radius:5px;
+     font-size:14px;
+     font-weight:700;
+     color:#fff;
+     line-height:60px;
+     text-align:center;
+     text-shadow:1px 1px 1px #004773;
+     background:#333
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
